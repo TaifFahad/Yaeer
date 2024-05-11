@@ -1,4 +1,4 @@
-Senior Project Name: YASSER Application <br />
+Senior Project Name: YASEER Application <br />
 Team Members:<br />
 JOUD ALSHEHRI - 2110281 <br />
 TAIF ALHOTHALI - 2110497<br />
